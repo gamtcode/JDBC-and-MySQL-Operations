@@ -1,0 +1,9 @@
+# Compiled files
+bin/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Sensitive data for database connection
+db.properties
