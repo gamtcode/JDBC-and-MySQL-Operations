@@ -1,0 +1,4 @@
+user=your_username_here
+password=your_password_here
+dburl=your_dburl_here
+useSSL=false
